@@ -1,5 +1,3 @@
-const mapToken = mapToken;
-const listing=listing;
 
 mapboxgl.accessToken = mapToken;
       const map = new mapboxgl.Map({
